@@ -6,7 +6,7 @@
 
 ![channel charting pipeline](images/channel_charting_pipeline.png)
 
-An infrastructure basestation (BS) or access point (AP) *passively* collects high-dimensional CSI (describing complex-valued frequency and time coefficients at possibly multiple antennas) from a large number transmitting UEs and/or UE locations. The BS or AP then generates CSI features, which describe large-scale fading properties contained in the collected CSI. Finally, dimensionality reduction (DR)-techniques are applied to the CSI-feature-database in order to learn a low-dimensional description which is the **channel chart**. The channel chart has the key properties that nearby points correspond to nearby locations in real space. 
+An infrastructure basestation (BS) or access point (AP) *passively* collects high-dimensional CSI (describing complex-valued frequency and time coefficients at possibly multiple antennas) from a large number transmitting UEs and/or UE locations. The BS or AP then generates CSI features, which describe large-scale fading properties contained in the collected CSI. Finally, dimensionality reduction (DR)-techniques are applied to the CSI-feature-database in order to learn a low-dimensional description which is the **channel chart**. The channel chart has the key property that nearby points correspond to nearby locations in real space. 
 
 * * *
 
