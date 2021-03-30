@@ -26,13 +26,9 @@ some results here.
 
 * <a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator</a>
 
-## Tutorial Slides
-
-* To be done
-
 * * *
 
-Some info about the curators (us) of this site.
+This site is maintained by the Integrated Information Processing (IIP) Group led by Prof. <a href="mailto:studer@ethz.ch">Christoph Studer</a> at the Department of Information Technology and Electrical Engineering at ETH Zürich, Switzerland. In case you would like to suggest a publication, patent, or software link, then please contact XXX.
 
 [editor on GitHub](https://github.com/channelcharting/channelcharting.github.io/edit/main/index.md)
 
