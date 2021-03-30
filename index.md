@@ -28,7 +28,9 @@ some results here.
 
 * * *
 
-This site is maintained by the Integrated Information Processing (IIP) Group led by Prof. <a href="mailto:studer@ethz.ch">Christoph Studer</a> at the Department of Information Technology and Electrical Engineering at ETH Zürich, Switzerland. In case you would like to suggest a publication, patent, or software link, then please contact XXX.
+This site is maintained by the Integrated Information Processing (IIP) Group led by Prof. <a href="mailto:studer@ethz.ch?subject=Channel Charting Repository">Christoph Studer</a> at the Department of Information Technology and Electrical Engineering at ETH Zürich, Switzerland. In case you would like to suggest a publication, patent, or software link, then please contact Mr. <a href="mailto:eg566@cornell.edu?subject=New Channel Charting Resource">Emre Gönültaş</a> and provide all the necessary details to create an item in the above lists. 
+
+* * * 
 
 [editor on GitHub](https://github.com/channelcharting/channelcharting.github.io/edit/main/index.md)
 
