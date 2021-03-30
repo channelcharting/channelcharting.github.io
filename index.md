@@ -6,7 +6,7 @@ Channel charting learns a mapping from channel state information (CSI) to a so-c
 
 ![channelcharting](https://github.com/channelcharting/channelcharting.github.io/blob/main/channel_charting_pipeline.png)
 
-Some explanations what we see. 
+An infrastructure basestation (BS) or access point (AP) passively collects CSI (describing complex-valued frequency and time coefficients at possibly multiple antennas) from a large number transmitting UEs or UE locations. The BS/AP then generate CSI features, which describe large-scale fading properties contained in the collected CSI. Finally, dimensionality reduction (DR)-techniques are applied to the CSI-feature-database in order to learn a low-dimensional description which is the channel chart. The channel chart ensures that nearby points correspond to nearby points in real space. 
 
 * * *
 
