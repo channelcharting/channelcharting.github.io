@@ -4,7 +4,7 @@ Channel charting learns a mapping from channel state information (CSI) to a so-c
 
 ### Typical Channel Charting Pipeline 
 
-![Branching](https://github.com/channelcharting/channelcharting.github.io/blob/main/channel_charting_pipeline.png | width=100)
+![typical channel charting pipeline](https://github.com/channelcharting/channelcharting.github.io/blob/main/channel_charting_pipeline.png)
 
 Some explanations what we see. 
 
