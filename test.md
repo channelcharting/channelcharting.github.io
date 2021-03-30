@@ -8,14 +8,11 @@
   
 
 <div class="media bibtex_template">
-    <a class="pull-left" href="papers/11VLSISOC-book.pdf"><span class="glyphicon glyphicon-book" style="font-size:32px;"></span></a>
     <div class="media-body">
- <span class="author"></span>,
-     <a class="bibtexVar" role="button" data-toggle="collapse"
-     href="#bib+BIBTEXKEY+" aria-expanded="false"
-     aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
-    <em class="title">" <span class="title"></span>,"</em>
-  </a>
+ 	<span class="author"></span>,
+     		<a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
+    		<em class="title">" <span class="title"></span>,"</em>
+ 		 </a>
 
      <span class="if journal"><span class="journal"></span>,</span>
         <span class="if month"><span class="month"></span>,</span> 
