@@ -1,16 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman-blog
 title: Channel Charting Resources
 description: Locating user equipment within the radio environment using channel state information
 
-# Navigation
-nav:
-  - name:           "home"
-    href:           "/"
-  - name:           "about"
-    href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
-  - name:           "people"
-    href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
+use_math: true
