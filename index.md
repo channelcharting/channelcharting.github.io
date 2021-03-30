@@ -14,22 +14,33 @@ Some explanations what we see.
 
 Some explanations what we see. 
 
+* * *
+
 ## Publications
 
 * C. Studer, S. Medjkouh, E. Gönültaş, T. Goldstein and O. Tirkkonen, "<a href="https://ieeexplore.ieee.org/abstract/document/8444621">Channel Charting: Locating Users Within  the Radio Environment Using Channel State Information</a>," IEEE Access, Vol. 6, pp. 47682-47698, Aug. 2018
+
+* * *
 
 ## Patents
 
 * C. Studer and O. Tirkkonen, "<a href="https://patents.google.com/patent/US10911168B2/en">Channel Charting in Wireless Systems</a>," U.S. Patent No. 10911168, Feb. 2021
 
+* * *
+
 ## Software
 
 * <a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator</a>
+
+* * *
 
 ## Tutorial Slides
 
 * To be done
 
+* * *
+
+Some info about the curators (us) of this site.
 
 [editor on GitHub](https://github.com/channelcharting/channelcharting.github.io/edit/main/index.md)
 
