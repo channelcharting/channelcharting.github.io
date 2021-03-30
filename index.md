@@ -1,4 +1,7 @@
-## Channel Charting
+## What is Channel Charting?
+
+Channel charting learns a mapping from channel state information (CSI) to a so-called **channel chart** in which nearby datapoints indicate nearness in real space. The learned channel chart captures the spatial geometry of the transmitting user equipments (UEs), effectively encoding relative (or logical) UE locations. Channel charting is self-supervised meaning that the mapping from CSI to the channel chart only requires a database of CSI information, which avoids reference location information, e.g., from global navigation satellite systems (GNSSs). The self-supervised nature of channel charting avoids the need for line-of-sight (LoS) conditions or (costly) measurement campaigns, and enables the infrastructure basestations or access points to perform cognitive and predictive radio access network (RAN) tasks critical to future wireless networks in a data-driven and scalable manner. 
+
 
 [link to papers](papers.md)
 
