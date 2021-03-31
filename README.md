@@ -1,2 +1,3 @@
-# channelcharting.github.io
-Channel Charting Website
+# Channel Charting Website
+
+[Klick here to go to the website](papers.md)
