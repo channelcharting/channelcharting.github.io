@@ -12,7 +12,18 @@ An infrastructure basestation (BS) or access point (AP) *passively* collects hig
 
 ## Publications
 
-* C. Studer, S. Medjkouh, E. Gönültaş, T. Goldstein and O. Tirkkonen, "<a href="https://ieeexplore.ieee.org/abstract/document/8444621">Channel Charting: Locating Users Within  the Radio Environment Using Channel State Information</a>," IEEE Access, Vol. 6, pp. 47682-47698, Aug. 2018
+* C. Studer, S. Medjkouh, E. Gönültaş, T. Goldstein, and O. Tirkkonen, "<a href="https://ieeexplore.ieee.org/abstract/document/8444621">Channel Charting: Locating Users Within  the Radio Environment Using Channel State Information</a>," IEEE Access, Vol. 6, pp. 47682-47698, Aug. 2018
+
+* J. Deng, S. Medjkouh, N. Malm, O. Tirkkonen, and C. Studer, "<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/461322">Multipoint Channel Charting for Wireless Networks</a>," 52nd Asilomar Conference on Signals, Systems, and Computers, Oct. 2018
+
+* P. Huang, O. Castañeda, E. Gönültaş, S. Medjkouh, O. Tirkkonen, T. Goldstein, and C. Studer, "<a href="https://arxiv.org/abs/1908.02878">Improving Channel Charting with Representation-Constrained Autoencoders</a>," IEEE 20th Intl. Workshop on Signal Processing Advances in Wireless Communications (SPAWC), July 2019
+
+* E. Lei, O. Castañeda, O. Tirkkonen, T. Goldstein, and C. Studer, "<a href="https://arxiv.org/abs/1909.13355">Siamese Neural Networks for Wireless Positioning and Channel Charting</a>," 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Sep. 2019
+
+* T. Ponnada, J. Al-Tous, O. Tirkkonen, and C. Studer, "<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/461386">An Out-of-Sample Extension for Wireless Multipoint Channel Charting</a>," Intl. Conference on Cognitive Radio Oriented Wireless Networks, June 2019
+
+
+
 
 ## Patents
 
@@ -24,4 +35,4 @@ An infrastructure basestation (BS) or access point (AP) *passively* collects hig
 
 * * *
 
-**Important:** This website is maintained by the Integrated Information Processing (IIP) Group, led by <a href="mailto:studer@ethz.ch?subject=Channel Charting Repository">Prof. Christoph Studer</a>, in the <a href="https://ee.ethz.ch/">Department of Information Technology and Electrical Engineering</a> at <a href="https://ethz.ch/en.html">ETH Zürich</a>, Switzerland. In case you would like to **suggest** a publication, patent, or software link, then please contact  <a href="mailto:eg566@cornell.edu?subject=New Channel Charting Resource">Mr. Emre Gönültaş</a> and provide all the necessary details required to create an item in the above lists. Last updated March 30, 2021. 
+**Important:** This website is maintained by the Integrated Information Processing (IIP) Group, led by <a href="mailto:studer@ethz.ch?subject=Channel Charting Repository">Prof. Christoph Studer</a>, in the <a href="https://ee.ethz.ch/">Department of Information Technology and Electrical Engineering</a> at <a href="https://ethz.ch/en.html">ETH Zürich</a>, Switzerland. In case you would like to **suggest** a publication, patent, or software link, then please contact  <a href="mailto:eg566@cornell.edu?subject=New Channel Charting Resource">Mr. Emre Gönültaş</a> and provide all the necessary details required to create an item in the above lists. Also note that the suggested resource should be publicly available and *not* behind a paywall. Last updated March 30, 2021. 
