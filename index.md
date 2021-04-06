@@ -10,7 +10,9 @@ An infrastructure basestation (BS) or access point (AP) *passively* collects hig
 
 ### Typical Channel Chart from Real-World Measurements
 
-The above figure shows channel charting results from real-world measurements acquired over 20 minutes (240,000 CSI samples) with a 32-antenna BS operating at 2.5 GHz. The left part shows the measurement campaign consisting of a single loop with four quadrants colored differently. The right part shows the resulting channel chart which was obtained by using a triplet-loss-based neural network. One can see that local geometry is very well preserved despited the fact that the results are obtained in a purely self-supervised fashion. The above figure is courtesy of Ferrand, Decurninge, Ordoñez, and Guillaud, 2021.  
+![channel charting pipeline](images/real_channel_chart.png)
+
+The above figure shows channel charting results obtained from real-world measurements (240,000 CSI samples) acquired with a 32-antenna BS operating at 2.5 GHz. The left part shows the measurement campaign consisting of a single loop acquired over 20 minutes with four quadrants colored differently. The right part shows the resulting channel chart  obtained by using a triplet-loss-based neural network. One can see that local geometry is very well preserved. Tracking user equipments in the channel chart will enable location dependent tasks in a purely self-supervised fashion. *The above figure is courtesy of Ferrand, Decurninge, Ordoñez, and Guillaud, 2021*.  
 
 * * *
 
