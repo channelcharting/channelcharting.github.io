@@ -64,6 +64,6 @@ The above figure shows channel charting results obtained from real-world measure
 
 This website is maintained by the Integrated Information Processing (IIP) Group, led by <a href="mailto:studer@ethz.ch?subject=Channel Charting Repository">Prof. Christoph Studer</a>, in the <a href="https://ee.ethz.ch/">Department of Information Technology and Electrical Engineering</a> at <a href="https://ethz.ch/en.html">ETH Zürich</a>, Switzerland. 
 
-## Suggest a Resource
+### Suggest a Resource
 
 In case you would like to **suggest** a publication, patent, or software link, then please contact  <a href="mailto:eg566@cornell.edu?subject=New Channel Charting Resource">Mr. Emre Gönültaş</a> and provide all the necessary details required to create an item in the above lists. Please note that we do *no longer* include resources that are behind a paywall. Last updated April 6, 2021. 
