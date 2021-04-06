@@ -8,6 +8,10 @@
 
 An infrastructure basestation (BS) or access point (AP) *passively* collects high-dimensional CSI (describing complex-valued frequency and time coefficients at possibly multiple antennas) from a large number transmitting UEs and/or UE locations. The BS or AP then extracts CSI features, which describe large-scale fading properties contained in the collected CSI. Finally, dimensionality reduction (DR)-techniques are applied to the CSI-feature database in order to learn a low-dimensional description, which is the **channel chart**. The channel chart has the key property that nearby points correspond to nearby locations in real space. 
 
+### Typical Channel Chart from Real-World Measurements
+
+The above figure shows channel charting results from real-world measurements acquired over 20 minutes (240,000 CSI samples) with a 32-antenna BS operating at 2.5 GHz. The left part shows the measurement campaign consisting of a single loop with four quadrants colored differently. The right part shows the resulting channel chart which was obtained by using a triplet-loss-based neural network. One can see that local geometry is very well preserved despited the fact that the results are obtained in a purely self-supervised fashion. The above figure is courtesy of Ferrand, Decurninge, Ordoñez, and Guillaud, 2021.  
+
 * * *
 
 ## Publications
