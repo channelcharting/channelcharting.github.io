@@ -50,6 +50,8 @@ The above figure shows channel charting results obtained from real-world measure
 
 * L. Ribeiro, M. Leinonen, D. Djelouat, and M. Juntti, "Channel Charting for Pilot Reuse in mMTC with Spatially Correlated MIMO Channels,"  IEEE Globecom Workshops, Dec. 2020, <a href="https://ieeexplore.ieee.org/abstract/document/9367434">paywall link</a>
 
+2021
+
 * L. Le Magoarou, "<a href="https://arxiv.org/abs/2104.13184">Efficient Channel Charting via Phase-Insensitive Distance Computation</a>," arXiv preprint: 2104.13184, Apr. 2021
 
 
