@@ -74,4 +74,4 @@ This website is maintained by the Integrated Information Processing (IIP) Group,
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:eg566@cornell.edu?subject=New Channel Charting Resource">Mr. Emre Gönültaş</a> and provide all the necessary details required to create an item in the above lists. Please note that we do *no longer* include resources that are behind a paywall. 
 
-Website last updated April 6, 2021. 
+Website last updated April 28, 2021. 
