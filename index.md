@@ -54,6 +54,9 @@ The above figure shows channel charting results obtained from real-world measure
 
 * L. Le Magoarou, "<a href="https://arxiv.org/abs/2104.13184">Efficient Channel Charting via Phase-Insensitive Distance Computation</a>," arXiv preprint: 2104.13184, Apr. 2021
 
+* H. Al-Tous, O. Tirkkonen, and J. Liang, "Adaptive Sector Splitting based on Channel Charting in Massive MIMO Cellular Systems," 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), Apr. 2021, <a href="https://ieeexplore.ieee.org/document/9448830">paywall link</a>
+
+* T. Ponnada, H. Al-Tous, O. Tirkkonen, "Location-Free Beam Prediction in mmWave Systems," IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), Apr. 2021, <a href="https://ieeexplore.ieee.org/document/9448938">paywall link</a>
 
 
 ## Patents
