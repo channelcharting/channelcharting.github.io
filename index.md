@@ -71,7 +71,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 ## Contact
 
-This website is maintained by the Integrated Information Processing (IIP) Group, led by <a href="mailto:studer@ethz.ch?subject=Channel Charting Repository">Prof. Christoph Studer</a>, in the <a href="https://ee.ethz.ch/">Department of Information Technology and Electrical Engineering</a> at <a href="https://ethz.ch/en.html">ETH Zürich</a>, Switzerland. 
+This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Information Processing (IIP) Group</a>, led by <a href="mailto:studer@ethz.ch?subject=Channel Charting Repository">Prof. Christoph Studer</a>, in the <a href="https://ee.ethz.ch/">Department of Information Technology and Electrical Engineering</a> at <a href="https://ethz.ch/en.html">ETH Zürich</a>, Switzerland. 
 
 ### Suggest a Resource
 
