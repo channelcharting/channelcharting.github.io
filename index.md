@@ -58,6 +58,13 @@ The above figure shows channel charting results obtained from real-world measure
 
 * T. Ponnada, H. Al-Tous, O. Tirkkonen, "Location-Free Beam Prediction in mmWave Systems," IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), Apr. 2021, <a href="https://ieeexplore.ieee.org/document/9448938">paywall link</a>
 
+* P. Kazemi, T. Ponnada, H. Al-Tous, Y.-C. Liang, and O. Tirkkonen, "Channel Charting Based Beam SNR Prediction," Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit), June 2021, <a href="https://ieeexplore.ieee.org/abstract/document/9482548">paywall link</a>
+
+* T. Ponnada, P. Kazemi; H. Al-Tous; Y.-C. Liang, and O. Tirkkonen, "Best Beam Prediction in Non-Standalone mm Wave Systems," Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit), June 2021, <a href="https://ieeexplore.ieee.org/abstract/document/9482504">paywall link</a>
+
+* J. Deng, O. Tirkkonen; J. Zhang; X. Jiao, and C. Studer, "Network-side Localization via Semi-Supervised Multi-point Channel Charting,"  International Wireless Communications and Mobile Computing (IWCMC), June 2021, <a href="https://ieeexplore.ieee.org/abstract/document/9498723">paywall link</a>
+
+* Q. Zhang and W. Saad, "<a href="https://arxiv.org/abs/2108.08241">Semi-Supervised Learning for Channel Charting-Aided IoT Localization in Millimeter Wave Networks</a>," arXiv preprint: 2108.08241, Aug. 2021
 
 ## Patents
 
