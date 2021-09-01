@@ -53,7 +53,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 2021
 
-* L. Le Magoarou, "<a href="https://arxiv.org/abs/2104.13184">Efficient Channel Charting via Phase-Insensitive Distance Computation</a>," arXiv preprint: 2104.13184, Apr. 2021
+* L. Le Magoarou, "<a href="https://arxiv.org/abs/2104.13184v2">Efficient Channel Charting via Phase-Insensitive Distance Computation</a>," accepted to the IEEE Wireless Communications Letters, arXiv preprint: 2104.13184, Apr. 2021
 
 * H. Al-Tous, O. Tirkkonen, and J. Liang, "Adaptive Sector Splitting based on Channel Charting in Massive MIMO Cellular Systems," 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), Apr. 2021, <a href="https://ieeexplore.ieee.org/document/9448830">paywall link</a>
 
