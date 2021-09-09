@@ -67,6 +67,8 @@ The above figure shows channel charting results obtained from real-world measure
 
 * Q. Zhang and W. Saad, "<a href="https://arxiv.org/abs/2108.08241">Semi-Supervised Learning for Channel Charting-Aided IoT Localization in Millimeter Wave Networks</a>," accepted to IEEE GLOBECOM 2021, arXiv preprint: 2108.08241, Aug. 2021
 
+* P. Ferrand, A. Decurninge, L. G. Ordoñez, and M. Guillaud, "<a href="https://doi.org/10.1109/JSAC.2021.3087251">Triplet-Based Wireless Channel Charting: Architecture and Experiments</a>," IEEE Journal on Selected Areas in Communications, Aug. 2021
+
 ## Patents
 
 * C. Studer and O. Tirkkonen, "<a href="https://patents.google.com/patent/US10911168B2/en">Channel Charting in Wireless Systems</a>," U.S. Patent No. 10911168, Feb. 2021
