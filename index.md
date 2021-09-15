@@ -67,7 +67,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * P. Ferrand, A. Decurninge, L. G. Ordoñez, and M. Guillaud, "<a href="https://doi.org/10.1109/JSAC.2021.3087251">Triplet-Based Wireless Channel Charting: Architecture and Experiments</a>," IEEE Journal on Selected Areas in Communications, Aug. 2021
 
-* L. Le Magoarou, "<a href="https://arxiv.org/abs/2104.13184v2">Efficient Channel Charting via Phase-Insensitive Distance Computation</a>," accepted to the IEEE Wireless Communications Letters, IEEE Wireless Communications Letters, Sep. 2021; arXiv preprint: 2104.13184
+* L. Le Magoarou, "<a href="https://arxiv.org/abs/2104.13184v2">Efficient Channel Charting via Phase-Insensitive Distance Computation</a>," IEEE Wireless Communications Letters, Sep. 2021; arXiv preprint: 2104.13184
 
 
 ## Patents
