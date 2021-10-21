@@ -69,6 +69,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * L. Le Magoarou, "<a href="https://arxiv.org/abs/2104.13184v2">Efficient Channel Charting via Phase-Insensitive Distance Computation</a>," IEEE Wireless Communications Letters, Sep. 2021; arXiv preprint: 2104.13184
 
+* B. Rappaport, E. Gönültaş, J. Hoydis, M. Arnold, P. K. Srinath, and C. Studer, "Improving Channel Charting using a Split Triplet Loss and an Inertial Regularizer," IEEE 17th International Symposium on Wireless Communication Systems (ISWCS), Sept. 2021, <a href="https://ieeexplore.ieee.org/abstract/document/9562215">paywall link</a>
 
 ## Patents
 
