@@ -73,7 +73,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 ## Tutorials
 
-* M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
+* M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
 
 ## Software
 
