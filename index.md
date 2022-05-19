@@ -95,4 +95,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:eg566@cornell.edu?subject=New Channel Charting Resource">Mr. Emre Gönültaş</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by CS on October 21, 2021. 
+Website last updated by CS on May 29, 2022. 
