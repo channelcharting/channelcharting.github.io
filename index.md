@@ -84,17 +84,16 @@ The above figure shows channel charting results obtained from real-world measure
 ## Tutorials
 
 * M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
-* P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Online Tutorial including a Jupyter Notebook, Jul. 2022, <a href="https://dichasus.inue.uni-stuttgart.de/datasets/">link to datasets</a>
+* P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Online Tutorial, Jul. 2022
 
 ## Software
 
-* <a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator
-
+* C. Studer, <a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator
+* P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Jupyter Notebook; <a href="https://dichasus.inue.uni-stuttgart.de/datasets/">link to datasets</a>
+ 
 ## Patents
 
 * C. Studer and O. Tirkkonen, "<a href="https://patents.google.com/patent/US10911168B2/en">Channel Charting in Wireless Systems</a>," U.S. Patent No. 10911168, Feb. 2021
-
-
 
 * * *
 
