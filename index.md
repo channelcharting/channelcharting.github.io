@@ -88,7 +88,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 ## Software
 
-* C. Studer, E. Gonultas, and S. Medjkouh, <a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator</a>
+* C. Studer, E. Gonultas, and S. Medjkouh, "<a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator</a>," MATLAB code including datasets 
 * P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Jupyter Notebook; <a href="https://dichasus.inue.uni-stuttgart.de/datasets/">link to datasets</a>
  
 ## Patents
