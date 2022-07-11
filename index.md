@@ -78,14 +78,17 @@ The above figure shows channel charting results obtained from real-world measure
 * A. Patrick, Z. Utkovski, S. Stańczak, A. A. Memon, B. Zafar, and M. Haardt., "Not-Too-Deep Channel Charting (N2D-CC)," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022, <a href="https://ieeexplore.ieee.org/abstract/document/9771913">paywall link</a>
 
 * P. Q. Viet and D. Romero, "<a href="https://arxiv.org/pdf/2204.10690.pdf">Implicit Channel Charting with Application to UAV-aided Localization</a>," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), July 2022 
+
+* F. Euchner, P. Stephan, M. Gauger, S. Dörner, S. ten Brink, "<a href="https://arxiv.org/abs/2206.09774">Improving Triplet-Based Channel Charting on Distributed Massive MIMO Measurements</a>," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), July 2022
  
 ## Tutorials
 
 * M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
+* P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Online Tutorial including a Jupyter Notebook, Jul. 2022, <a href="https://dichasus.inue.uni-stuttgart.de/datasets/">link to datasets</a>
 
 ## Software
 
-* <a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator</a>
+* <a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator
 
 ## Patents
 
