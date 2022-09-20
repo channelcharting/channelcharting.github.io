@@ -77,7 +77,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * A. Patrick, Z. Utkovski, S. Stańczak, A. A. Memon, B. Zafar, and M. Haardt., "Not-Too-Deep Channel Charting (N2D-CC)," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022, <a href="https://ieeexplore.ieee.org/abstract/document/9771913">paywall link</a>
 
-* P. Kazemi, H. Al-Tous, C. Studer, and O. Tirkkonen, "Channel Charting Assisted Beam Tracking," IEEE 95th Vehicular Technology Conference: (VTC2022-Spring), June 2022, <a href="https://ieeexplore.ieee.org/abstract/document/9771913">paywall link</a>
+* P. Kazemi, H. Al-Tous, C. Studer, and O. Tirkkonen, "Channel Charting Assisted Beam Tracking," IEEE 95th Vehicular Technology Conference: (VTC2022-Spring), June 2022, <a href="https://ieeexplore.ieee.org/abstract/document/9860709">paywall link</a>
 
 * P. Q. Viet and D. Romero, "<a href="https://arxiv.org/pdf/2204.10690.pdf">Implicit Channel Charting with Application to UAV-aided Localization</a>," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), July 2022 
 
@@ -108,4 +108,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by CS on May 29, 2022. 
+Website last updated by CS on Sept. 20, 2022. 
