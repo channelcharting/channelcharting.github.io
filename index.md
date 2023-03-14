@@ -71,6 +71,8 @@ The above figure shows channel charting results obtained from real-world measure
 
 * B. Rappaport, E. Gönültaş, J. Hoydis, M. Arnold, P. K. Srinath, and C. Studer, "<a href="https://arxiv.org/abs/2110.11279">Improving Channel Charting using a Split Triplet Loss and an Inertial Regularizer</a>," IEEE 17th International Symposium on Wireless Communication Systems (ISWCS), Sept. 2021
 
+* I. Karmanov, F. G. Zanjani, I. Kadampot, S. Merlin and D. Dijkman, "<a href="https://arxiv.org/pdf/2107.01002.pdf">WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels</a>," IEEE Global Communications Conference (GLOBECOM), Madrid, Spain, Dec. 2021
+
 2022
 
 * L. Ribeiro, M. Leinonen, H. Al-Tous, O. Tirkkonen, and M. Juntti, "<a href="https://arxiv.org/abs/2203.06651">Pilot Reuse for mMTC with Spatially Correlated MIMO Channels: A Channel Charting Approach</a>," arXiv preprint, Mar. 2022 
