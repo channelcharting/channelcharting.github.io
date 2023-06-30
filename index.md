@@ -87,7 +87,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 2023
 
-* M. Stahlke, G. Yammine, T. Feigl, B. W. Eskofier, C. Mutschler, "Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach," IEEE Transactions on Machine Learning in Communications and Networking, Mar. 2023, <a href="https://ieeexplore.ieee.org/abstract/document/9860709">paywall link</a>
+* M. Stahlke, G. Yammine, T. Feigl, B. W. Eskofier, C. Mutschler, "Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach," IEEE Transactions on Machine Learning in Communications and Networking, Mar. 2023; <a href="https://ieeexplore.ieee.org/abstract/document/10070385">paywall link</a>, <a href="https://github.com/mutschcr/cc_tmcn">GitHub repository</a>
 
 ## Tutorials
 
@@ -97,6 +97,7 @@ The above figure shows channel charting results obtained from real-world measure
 ## Software
 
 * C. Studer, E. Gonultas, and S. Medjkouh, "<a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator</a>," MATLAB code including datasets 
+
 * P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Jupyter Notebook; <a href="https://dichasus.inue.uni-stuttgart.de/datasets/">link to datasets</a>
  
 ## Patents
