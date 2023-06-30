@@ -85,6 +85,9 @@ The above figure shows channel charting results obtained from real-world measure
 
 * F. Euchner, P. Stephan, M. Gauger, S. Dörner, S. ten Brink, "<a href="https://arxiv.org/abs/2206.09774">Improving Triplet-Based Channel Charting on Distributed Massive MIMO Measurements</a>," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), July 2022
 
+2023
+
+* M. Stahlke, G. Yammine, T. Feigl, B. W. Eskofier, C. Mutschler, "Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach," IEEE Transactions on Machine Learning in Communications and Networking, Mar. 2023, <a href="https://ieeexplore.ieee.org/abstract/document/9860709">paywall link</a>
 
 ## Tutorials
 
@@ -110,4 +113,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by CS on Sept. 20, 2022. 
+Website last updated by CS on Jun. 30, 2023. 
