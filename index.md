@@ -89,6 +89,8 @@ The above figure shows channel charting results obtained from real-world measure
 
 * M. Stahlke, G. Yammine, T. Feigl, B. W. Eskofier, C. Mutschler, "Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach," IEEE Transactions on Machine Learning in Communications and Networking, Mar. 2023; <a href="https://ieeexplore.ieee.org/abstract/document/10070385">paywall link</a>, <a href="https://github.com/mutschcr/cc_tmcn">GitHub repository</a>
 
+* P. Ferrand, M. Guillaud, C. Studer, O. Tirkkonen, "<a href="https://ieeexplore.ieee.org/document/10155724">Wireless Channel Charting: Theory, Practice, and Applications</a>," IEEE Communications Magazine, Jun. 2023
+
 ## Tutorials
 
 * M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
