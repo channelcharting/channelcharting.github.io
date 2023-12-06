@@ -87,21 +87,53 @@ The above figure shows channel charting results obtained from real-world measure
 
 2023
 
+* A. Aly, E. Ayanoglu, "Estimation of Cellular Wireless User Coordinates via Channel Charting and MUSIC," International Conference on Computing, Networking and Communications (ICNC), Feb. 2023, <a href="https://ieeexplore.ieee.org/document/10074200">paywall link</a>
+
 * M. Stahlke, G. Yammine, T. Feigl, B. W. Eskofier, C. Mutschler, "Indoor Localization with Robust Global Channel Charting: A Time-Distance-Based Approach," IEEE Transactions on Machine Learning in Communications and Networking, Mar. 2023; <a href="https://ieeexplore.ieee.org/abstract/document/10070385">paywall link</a>, <a href="https://github.com/mutschcr/cc_tmcn">GitHub repository</a>
 
 * P. Ferrand, M. Guillaud, C. Studer, O. Tirkkonen, "<a href="https://ieeexplore.ieee.org/document/10155724">Wireless Channel Charting: Theory, Practice, and Applications</a>," IEEE Communications Magazine, Jun. 2023
 
+* S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2308.14498">Channel Charting in Real-World Coordinates</a>," IEEE GLOBECOM 2023, Aug. 2023
+
+* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2308.09539">Angle-Delay Profile-Based and Timestamp-Aided Dissimilarity Metrics for Channel Charting</a>," arXiv preprint, submitted to IEEE Transactions on Communications, Aug. 2023
+
+* T. Yassine, L. Le Magoarou, M. Crussière, S. Paquelet, "<a href="https://arxiv.org/abs/2310.03762">Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting</a>"
+
+* T. Yassine, B. Chatelier, V. Corlay, M. Crussière, S. Paquelet, O. Tirkkonen, L. Le Magoarou, "<a href="https://arxiv.org/abs/2312.02239">Model-based Deep Learning for Beam Prediction based on a Channel Chart</a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023
+
+* F. Euchner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2312.01968">Augmenting Channel Charting with Classical Wireless Source Localization Techniques</a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023, <a href="https://github.com/Jeija/ToA-AoA-Augmented-ChannelCharting/">GitHub repository</a>
+
+* M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, C. Mutschler, "<a href="https://arxiv.org/abs/2311.08016">Velocity-Based Channel Charting with Spatial Distribution Map Matching</a>," submitted to IEEE Journal on Selected Areas in Communications, Nov. 2023
+
+
 ## Tutorials
 
 * M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
-* P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Online Tutorial, Jul. 2022
+
+* P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Online Tutorial, Jul. 2022
+
+* F. Euchner, C. Eun Lee and P. Stephan "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/">Dissimilarity Metric-Based Channel Charting</a>," Online Tutorial, Oct. 2023
+
 
 ## Software
 
 * C. Studer, E. Gonultas, and S. Medjkouh, "<a href="https://github.com/IIP-Group/ChannelCharting">Simple Channel Charting MATLAB Simulator</a>," MATLAB code including datasets 
 
-* P. Stefan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Channel Charting - Mapping the Radio Environment</a>," Jupyter Notebook; <a href="https://dichasus.inue.uni-stuttgart.de/datasets/">link to datasets</a>
- 
+* M. Stahlke, G. Yammine, T. Feigl, B. W. Eskofier, C. Mutschler, <a href="https://github.com/mutschcr/cc_tmcn">Source code for "Indoor Localization with Robust Global Channel Charting"</a>
+
+* F. Euchner, C. Eun Lee and P. Stephan "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/">Dissimilarity Metric-Based Channel Charting</a>," Jupyter Notebook, Tutorial with code
+
+* F. Euchner, "<a href="https://github.com/Jeija/ToA-AoA-Augmented-ChannelCharting/">Time of Arrival / Angle of Arrival-augmented Channel Charting</a>," Jupyter Notebooks
+
+## CSI Datasets
+
+Below is a compilation of links to some real-world measurement datasets that contain CSI data.
+These datasets have previously been used to showcase Channel Charting:
+
+* <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/pos/fingerprinting-dataset-for-positioning.html">Fraunhofer UWB and 5G datasets</a>: Measured in an indoor environment, includes channel impulse responses and time of flight / time difference of arrival data, includes "ground truth" positions.
+
+* <a href="https://dichasus.inue.uni-stuttgart.de">University of Stuttgart DICHASUS dataset collection</a>: CSI data from a distributed massive MIMO-OFDM channel sounder, with time and phase synchronization, includes "ground truth" positions. Various environments and frequencies (indoor / outdoor / industrial).
+
 ## Patents
 
 * C. Studer and O. Tirkkonen, "<a href="https://patents.google.com/patent/US10911168B2/en">Channel Charting in Wireless Systems</a>," U.S. Patent No. 10911168, Feb. 2021
@@ -116,4 +148,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by CS on Jun. 30, 2023. 
+Website last updated by Florian Euchner on Dec. 6, 2023.
