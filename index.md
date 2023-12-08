@@ -103,10 +103,10 @@ The above figure shows channel charting results obtained from real-world measure
 
 * F. Euchner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2312.01968">Augmenting Channel Charting with Classical Wireless Source Localization Techniques</a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023, <a href="https://github.com/Jeija/ToA-AoA-Augmented-ChannelCharting/">GitHub repository</a>
 
-* M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, C. Mutschler, "<a href="https://arxiv.org/abs/2311.08016">Velocity-Based Channel Charting with Spatial Distribution Map Matching</a>," submitted to IEEE Journal on Selected Areas in Communications, Nov. 2023
-
 * S. Taner, M. Guillaud, O. Tirkkonen, C. Studer, "<a href="https://arxiv.org/abs/2312.04514">Channel Charting for Streaming CSI Data
 </a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023
+
+* M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, C. Mutschler, "<a href="https://arxiv.org/abs/2311.08016">Velocity-Based Channel Charting with Spatial Distribution Map Matching</a>," submitted to IEEE Journal on Selected Areas in Communications, Nov. 2023
 
 ## Tutorials
 
