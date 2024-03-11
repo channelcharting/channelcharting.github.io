@@ -99,12 +99,13 @@ The above figure shows channel charting results obtained from real-world measure
 
 * T. Yassine, L. Le Magoarou, M. Crussière, S. Paquelet, "<a href="https://arxiv.org/abs/2310.03762">Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting</a>"
 
+* H. Aghajari, M. Naderi Soorki,  S. Ahmadinabi, A. Rezazadeh, S. Ranjbaran, M. Nitti  "Multi-Point Channel Charting for Long Range Wireless Networks: an Experimental Study," IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Sep. 2023, <a href="https://ieeexplore.ieee.org/abstract/document/10266632">paywall link</a>
+
 * T. Yassine, B. Chatelier, V. Corlay, M. Crussière, S. Paquelet, O. Tirkkonen, L. Le Magoarou, "<a href="https://arxiv.org/abs/2312.02239">Model-based Deep Learning for Beam Prediction based on a Channel Chart</a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023
 
 * F. Euchner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2312.01968">Augmenting Channel Charting with Classical Wireless Source Localization Techniques</a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023, <a href="https://github.com/Jeija/ToA-AoA-Augmented-ChannelCharting/">GitHub repository</a>
 
-* S. Taner, M. Guillaud, O. Tirkkonen, C. Studer, "<a href="https://arxiv.org/abs/2312.04514">Channel Charting for Streaming CSI Data
-</a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023
+* S. Taner, M. Guillaud, O. Tirkkonen, C. Studer, "<a href="https://arxiv.org/abs/2312.04514">Channel Charting for Streaming CSI Data</a>," Asilomar Conference on Signals, Systems, and Computers, Nov. 2023
 
 * M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, C. Mutschler, "<a href="https://arxiv.org/abs/2311.08016">Velocity-Based Channel Charting with Spatial Distribution Map Matching</a>," submitted to IEEE Journal on Selected Areas in Communications, Nov. 2023
 
@@ -114,7 +115,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Online Tutorial, Jul. 2022
 
-* F. Euchner, C. Eun Lee and P. Stephan "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/">Dissimilarity Metric-Based Channel Charting</a>," Online Tutorial, Oct. 2023
+* F. Euchner, C. Eun Lee, and P. Stephan "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/">Dissimilarity Metric-Based Channel Charting</a>," Online Tutorial, Oct. 2023
 
 
 ## Software
