@@ -151,4 +151,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Christoph Studer on Dec. 8, 2023.
+Website last updated by Christoph Studer on Mar. 11, 2024.
