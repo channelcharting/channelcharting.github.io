@@ -119,6 +119,10 @@ The above figure shows channel charting results obtained from real-world measure
 
 * F. Euchner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2404.09620">Leveraging the Doppler Effect for Channel Charting</a>," arXiv preprint, Apr. 2024, <a href="https://github.com/Jeija/Doppler-Effect-ChannelCharting/">GitHub repository</a>
 
+* O. Esrafilian, M. Ahadi, F. Kaltenberger, D. Gesbert, "<a href="https://arxiv.org/abs/2405.04357">Global Scale Self-Supervised Channel Charting with Sensor Fusion</a>," arXiv preprint, May 2024
+
+* S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2406.13722">Channel Charting in Real-World Coordinates with Distributed MIMO</a>," arXiv preprint, June 2024
+
 ## Tutorials
 
 * M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
@@ -161,4 +165,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Florian Euchner on Apr. 18, 2024.
+Website last updated by Florian Euchner on June 30, 2024.
