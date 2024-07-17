@@ -125,8 +125,6 @@ The above figure shows channel charting results obtained from real-world measure
 
 ## Tutorials
 
-* M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/channel_charting_tutorial.pdf">Wireless Channel Charting for Massive MIMO</a>," IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022
-
 * P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Online Tutorial, Jul. 2022
 
 * F. Euchner, C. Eun Lee, and P. Stephan "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/">Dissimilarity Metric-Based Channel Charting</a>," Online Tutorial, Oct. 2023
