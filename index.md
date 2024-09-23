@@ -125,6 +125,10 @@ The above figure shows channel charting results obtained from real-world measure
 
 * B. Shaikh, P. G. Burguera, H. Al-Tous, M. Juntti, M. Khan, O. Tirkkonen, "<a href="https://research.aalto.fi/en/publications/pilot-assignment-based-on-aoa-information-using-channel-charting-">Pilot Assignment based on AoA Information using Channel Charting in Massive MIMO Systems</a>," 25th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sep. 2024
 
+* Y. Vindas, M. Guillaud, "<a href="https://hal.science/hal-04685466">Multi-Site Wireless Channel Charting Through Latent Space Alignment</a>," 25th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sep. 2024
+
+* C. B. Chaaya, A. M. Girgis, M. Bennis, "<a href="https://www.arxiv.org/abs/2409.10045">Learning Latent Wireless Dynamics from Channel State Information</a>," arXiv preprint, Sep. 2024
+
 ## Tutorials
 
 * P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Online Tutorial, Jul. 2022
@@ -170,4 +174,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Florian Euchner on August 30, 2024.
+Website last updated by Florian Euchner on September 23, 2024.
