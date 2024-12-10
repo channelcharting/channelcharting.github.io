@@ -129,6 +129,12 @@ The above figure shows channel charting results obtained from real-world measure
 
 * C. B. Chaaya, A. M. Girgis, M. Bennis, "<a href="https://www.arxiv.org/abs/2409.10045">Learning Latent Wireless Dynamics from Channel State Information</a>," arXiv preprint, Sep. 2024
 
+* P. Stephan, F. Euchner, S. ten Brink, “<a href="https://arxiv.org/abs/2410.11486">Channel Charting-Based Channel Prediction on Real-World Distributed Massive MIMO CSI</a>,” arXiv preprint, Oct. 2024
+
+* F. Euchner, P. Stephan, S. ten Brink, “<a href="https://arxiv.org/abs/2412.01715">Uncertainty-Aware Dimensionality Reduction for Channel Charting with Geodesic Loss</a>,” Asilomar Conference on Signals, Systems, and Computers, Oct. 2024, <a href="https://github.com/Jeija/Geodesic-Uncertainty-Loss-ChannelCharting">GitHub repository</a>
+
+* P. G. Burguera, B. Shaikh, H. Al-Tous, O. Tirkkonen, “<a href="https://research.aalto.fi/en/publications/pilot-allocation-for-cell-free-massive-mimo-based-on-channel-char">Pilot Allocation for Cell-Free Massive MIMO based on Channel Charting</a>,” Asilomar Conference on Signals, Systems, and Computers, Oct. 2024
+
 ## Tutorials
 
 * P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Online Tutorial, Jul. 2022
@@ -174,4 +180,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Florian Euchner on September 23, 2024.
+Website last updated by Florian Euchner on December 10, 2024.
