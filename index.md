@@ -129,11 +129,16 @@ The above figure shows channel charting results obtained from real-world measure
 
 * C. B. Chaaya, A. M. Girgis, M. Bennis, "<a href="https://www.arxiv.org/abs/2409.10045">Learning Latent Wireless Dynamics from Channel State Information</a>," arXiv preprint, Sep. 2024
 
-* P. Stephan, F. Euchner, S. ten Brink, “<a href="https://arxiv.org/abs/2410.11486">Channel Charting-Based Channel Prediction on Real-World Distributed Massive MIMO CSI</a>,” arXiv preprint, Oct. 2024
+* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2410.11486">Channel Charting-Based Channel Prediction on Real-World Distributed Massive MIMO CSI</a>," arXiv preprint, Oct. 2024
 
-* F. Euchner, P. Stephan, S. ten Brink, “<a href="https://arxiv.org/abs/2412.01715">Uncertainty-Aware Dimensionality Reduction for Channel Charting with Geodesic Loss</a>,” Asilomar Conference on Signals, Systems, and Computers, Oct. 2024, <a href="https://github.com/Jeija/Geodesic-Uncertainty-Loss-ChannelCharting">GitHub repository</a>
+* F. Euchner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2412.01715">Uncertainty-Aware Dimensionality Reduction for Channel Charting with Geodesic Loss</a>," Asilomar Conference on Signals, Systems, and Computers, Oct. 2024, <a href="https://github.com/Jeija/Geodesic-Uncertainty-Loss-ChannelCharting">GitHub repository</a>
 
-* P. G. Burguera, B. Shaikh, H. Al-Tous, O. Tirkkonen, “<a href="https://research.aalto.fi/en/publications/pilot-allocation-for-cell-free-massive-mimo-based-on-channel-char">Pilot Allocation for Cell-Free Massive MIMO based on Channel Charting</a>,” Asilomar Conference on Signals, Systems, and Computers, Oct. 2024
+* P. G. Burguera, B. Shaikh, H. Al-Tous, O. Tirkkonen, "<a href="https://research.aalto.fi/en/publications/pilot-allocation-for-cell-free-massive-mimo-based-on-channel-char">Pilot Allocation for Cell-Free Massive MIMO based on Channel Charting</a>," Asilomar Conference on Signals, Systems, and Computers, Oct. 2024
+
+* B. Chatelier, V. Corlay, M. Crussière, L. Le Magoarou, "<a href="https://arxiv.org/abs/2501.01431">CSI Compression using Channel Charting</a>," Asilomar Conference on Signals, Systems, and Computers, Oct. 2024
+
+* H. Che, L. You, J. Wang, Z. Jin, C. Xie, X. Gao, "<a href="https://arxiv.org/abs/2412.20920">Channel Charting-assisted Non-orthogonal Pilot Allocation for Uplink XL-MIMO Transmission</a>," arXiv preprint, Dec. 2024
+
 
 ## Tutorials
 
