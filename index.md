@@ -95,8 +95,6 @@ The above figure shows channel charting results obtained from real-world measure
 
 * S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2308.14498">Channel Charting in Real-World Coordinates</a>," IEEE GLOBECOM 2023, Aug. 2023
 
-* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2308.09539">Angle-Delay Profile-Based and Timestamp-Aided Dissimilarity Metrics for Channel Charting</a>," arXiv preprint, accepted for IEEE Transactions on Communications, Aug. 2023
-
 * T. Yassine, L. Le Magoarou, M. Crussière, S. Paquelet, "<a href="https://arxiv.org/abs/2310.03762">Optimizing Multicarrier Multiantenna Systems for LoS Channel Charting</a>"
 
 * H. Aghajari, M. Naderi Soorki,  S. Ahmadinabi, A. Rezazadeh, S. Ranjbaran, M. Nitti  "Multi-Point Channel Charting for Long Range Wireless Networks: an Experimental Study," IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Sep. 2023, <a href="https://ieeexplore.ieee.org/abstract/document/10266632">paywall link</a>
@@ -113,13 +111,15 @@ The above figure shows channel charting results obtained from real-world measure
 
 * M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, C. Mutschler, "<a href="https://arxiv.org/abs/2311.08016">Velocity-Based Channel Charting with Spatial Distribution Map Matching</a>," submitted to IEEE Journal on Selected Areas in Communications, Nov. 2023
 
+* S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2406.13722">Channel Charting in Real-World Coordinates with Distributed MIMO</a>," IEEE Global Communications Conference (GLOBECOM), Dec. 2023
+
 2024
 
-* L. Zhao, Y. Yang, Q. Xiong, H. Wang, B. Yu, F. Sun, C. Sun, "<a href="https://arxiv.org/abs/2403.20091">A Signature Based Approach Towards Global Channel Charting with Ultra Low Complexity</a>," arXiv preprint, Mar. 2024
+* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2308.09539">Angle-Delay Profile-Based and Timestamp-Aided Dissimilarity Metrics for Channel Charting</a>," IEEE Transactions on Communications, Apr. 2024
 
 * O. Esrafilian, M. Ahadi, F. Kaltenberger, D. Gesbert, "<a href="https://arxiv.org/abs/2405.04357">Global Scale Self-Supervised Channel Charting with Sensor Fusion</a>," arXiv preprint, May 2024
 
-* S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2406.13722">Channel Charting in Real-World Coordinates with Distributed MIMO</a>," arXiv preprint, June 2024
+* L. Zhao, Y. Yang, Q. Xiong, H. Wang, B. Yu, F. Sun, C. Sun, "<a href="https://arxiv.org/abs/2403.20091">A Signature Based Approach Towards Global Channel Charting with Ultra Low Complexity</a>," IEEE International Conference on Communications Workshops (ICC Workshops), Jun. 2024
 
 * F. Euchner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2404.09620">Leveraging the Doppler Effect for Channel Charting</a>," 25th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sep. 2024, <a href="https://github.com/Jeija/Doppler-Effect-ChannelCharting/">GitHub repository</a>
 
@@ -127,18 +127,27 @@ The above figure shows channel charting results obtained from real-world measure
 
 * Y. Vindas, M. Guillaud, "<a href="https://hal.science/hal-04685466">Multi-Site Wireless Channel Charting Through Latent Space Alignment</a>," 25th IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sep. 2024
 
-* C. B. Chaaya, A. M. Girgis, M. Bennis, "<a href="https://www.arxiv.org/abs/2409.10045">Learning Latent Wireless Dynamics from Channel State Information</a>," arXiv preprint, Sep. 2024
-
-* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2410.11486">Channel Charting-Based Channel Prediction on Real-World Distributed Massive MIMO CSI</a>," arXiv preprint, Oct. 2024
-
 * F. Euchner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2412.01715">Uncertainty-Aware Dimensionality Reduction for Channel Charting with Geodesic Loss</a>," Asilomar Conference on Signals, Systems, and Computers, Oct. 2024, <a href="https://github.com/Jeija/Geodesic-Uncertainty-Loss-ChannelCharting">GitHub repository</a>
 
 * P. G. Burguera, B. Shaikh, H. Al-Tous, O. Tirkkonen, "<a href="https://research.aalto.fi/en/publications/pilot-allocation-for-cell-free-massive-mimo-based-on-channel-char">Pilot Allocation for Cell-Free Massive MIMO based on Channel Charting</a>," Asilomar Conference on Signals, Systems, and Computers, Oct. 2024
 
 * B. Chatelier, V. Corlay, M. Crussière, L. Le Magoarou, "<a href="https://arxiv.org/abs/2501.01431">CSI Compression using Channel Charting</a>," Asilomar Conference on Signals, Systems, and Computers, Oct. 2024
 
+* C. B. Chaaya, A. M. Girgis, M. Bennis, "<a href="https://www.arxiv.org/abs/2409.10045">Learning Latent Wireless Dynamics from Channel State Information</a>," IEEE Wireless Communications Letters, Dec. 2024
+
 * H. Che, L. You, J. Wang, Z. Jin, C. Xie, X. Gao, "<a href="https://arxiv.org/abs/2412.20920">Channel Charting-assisted Non-orthogonal Pilot Allocation for Uplink XL-MIMO Transmission</a>," arXiv preprint, Dec. 2024
 
+2025
+
+* M. Stahlke, "<a href="https://open.fau.de/items/7ba05679-4884-4cb5-ad3a-1eb926742d2b">Channel Charting assisted Radio Localization: Towards Reliability and Robustness</a>," doctoral thesis, Jan. 2025
+
+* P. Kazemi, "<a href="https://aaltodoc.aalto.fi/items/c6aaacbc-429f-4224-aa6f-4736dcdf5ad1">Channel Charting-based Radio Resource Management</a>," doctoral thesis, Mar. 2025
+
+* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2410.11486">Channel Charting-Based Channel Prediction on Real-World Distributed Massive MIMO CSI</a>," IEEE Wireless Communications and Networking Conference (WCNC), Mar. 2025
+
+* F. Euchner, D. Kellner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2504.09924">Passive Channel Charting: Locating Passive Targets using Wi-Fi Channel State Information</a>," arXiv preprint, Apr. 2025, <a href="https://github.com/Jeija/ESPARGOS-Passive-ChannelCharting">GitHub repository</a>
+
+* M. E. M. Makhlouf, M. Guillaud, Y. Vindas, "<a href="https://hal.science/hal-05037063/">Multi-cell Outdoor Channel State Information Dataset (MOCSID)</a>," 2025 EuCNC & 6G Summit, Jun. 2025
 
 ## Tutorials
 
@@ -185,4 +194,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Florian Euchner on January 21, 2025.
+Website last updated by Florian Euchner on April 25, 2025.
