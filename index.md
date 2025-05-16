@@ -149,6 +149,8 @@ The above figure shows channel charting results obtained from real-world measure
 
 * M. E. M. Makhlouf, M. Guillaud, Y. Vindas, "<a href="https://hal.science/hal-05037063/">Multi-cell Outdoor Channel State Information Dataset (MOCSID)</a>," 2025 EuCNC & 6G Summit, Jun. 2025
 
+* R. Poeggel, M. Stahlke, J. Pirkl, J. Ott, G. Yammine, T. Feigl, and C. Mutschler, "<a href="https://arxiv.org/abs/2505.10194">Passive Channel Charting: Locating Passive Targets using a UWB Mesh</a>," arXiv preprint: 2505.10194, May 2025
+
 ## Tutorials
 
 * P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Online Tutorial, Jul. 2022
@@ -194,4 +196,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Florian Euchner on April 25, 2025.
+Website last updated by Christoph Studer on May 16, 2025.
