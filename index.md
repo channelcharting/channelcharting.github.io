@@ -157,7 +157,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * F. Euchner, C. Eun Lee, and P. Stephan "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/">Dissimilarity Metric-Based Channel Charting</a>," Online Tutorial, Oct. 2023
 
-* M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/ISWCS2024_tutorial.pdf">Wireless Channel Charting for Next-Generation Radio Access Networks</a>," IEEE 19th International Symposium on Wireless Communication Systems (ISWCS), July 2024
+* M. Guillaud and C. Studer, "<a href="https://github.com/channelcharting/channelcharting.github.io/blob/main/pdf/25ICMLCN_CC_tutorial.pdf">Wireless Channel Charting for Next-Generation Radio Access Networks</a>," IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), May 2025
 
 ## Software
 
@@ -200,4 +200,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Christoph Studer on May 19, 2025.
+Website last updated by Christoph Studer on June 2, 2025.
