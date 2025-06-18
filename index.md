@@ -111,7 +111,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, C. Mutschler, "<a href="https://arxiv.org/abs/2311.08016">Velocity-Based Channel Charting with Spatial Distribution Map Matching</a>," submitted to IEEE Journal on Selected Areas in Communications, Nov. 2023
 
-* S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2406.13722">Channel Charting in Real-World Coordinates with Distributed MIMO</a>," IEEE Global Communications Conference (GLOBECOM), Dec. 2023
+* S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2308.14498">Channel Charting in Real-World Coordinates</a>," IEEE Global Communications Conference (GLOBECOM), Dec. 2023
 
 2024
 
@@ -147,9 +147,14 @@ The above figure shows channel charting results obtained from real-world measure
 
 * F. Euchner, D. Kellner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2504.09924">Passive Channel Charting: Locating Passive Targets using Wi-Fi Channel State Information</a>," arXiv preprint, Apr. 2025, <a href="https://github.com/Jeija/ESPARGOS-Passive-ChannelCharting">GitHub repository</a>
 
-* M. E. M. Makhlouf, M. Guillaud, Y. Vindas, "<a href="https://hal.science/hal-05037063/">Multi-cell Outdoor Channel State Information Dataset (MOCSID)</a>," 2025 EuCNC & 6G Summit, Jun. 2025
+* S. Taner, V. Palhares, C. Studer, "<a href="https://arxiv.org/abs/2406.13722">Channel Charting in Real-World Coordinates with Distributed MIMO</a>," IEEE Transactions on Wireless Communications, April 2025
 
 * R. Poeggel, M. Stahlke, J. Pirkl, J. Ott, G. Yammine, T. Feigl, and C. Mutschler, "<a href="https://arxiv.org/abs/2505.10194">Passive Channel Charting: Locating Passive Targets using a UWB Mesh</a>," arXiv preprint: 2505.10194, May 2025
+
+* M. E. M. Makhlouf, M. Guillaud, Y. Vindas, "<a href="https://hal.science/hal-05037063/">Multi-cell Outdoor Channel State Information Dataset (MOCSID)</a>," 2025 EuCNC & 6G Summit, June 2025
+
+* V. Palhares, S. Taner,  and C. Studer, "<a href="https://arxiv.org/abs/2506.05237">CSI2Vec: Towards a Universal CSI Feature Representation for Positioning and Channel Charting</a>," arXiv preprint: 2506.05237, June 2025
+
 
 ## Tutorials
 
@@ -200,4 +205,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Christoph Studer on June 2, 2025.
+Website last updated by Christoph Studer on June 18, 2025.
