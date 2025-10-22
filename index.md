@@ -155,6 +155,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * V. Palhares, S. Taner,  and C. Studer, "<a href="https://arxiv.org/abs/2506.05237">CSI2Vec: Towards a Universal CSI Feature Representation for Positioning and Channel Charting</a>," arXiv preprint: 2506.05237, June 2025
 
+* Ge Chen, P. Chen, and L. Cheng, "<a href="https://arxiv.org/abs/2509.13030">Deep Tensor Learning for Reliable Channel Charting from Incomplete and Noisy Measurements</a>," arXiv preprint: 2509.13030, Sep. 2025
 
 ## Tutorials
 
@@ -205,4 +206,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Christoph Studer on June 18, 2025.
+Website last updated by Christoph Studer on October 22, 2025.
