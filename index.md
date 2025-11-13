@@ -159,6 +159,9 @@ The above figure shows channel charting results obtained from real-world measure
 
 * Y. Zhang, G. Pan, M. F. Keskin, O. Kaltiokallio, M. Valkama, and H. Wymeersch, “<a href="https://arxiv.org/abs/2510.27394">UNILocPro: Unified Localization Integrating Model-Based Geometry and Channel Charting</a>,” arXiv preprint: 2510.27394, Oct. 2025
 
+* J. M. Mateos-Ramos, F. Zumegen, H. Wymeersch, C. Häger, and C. Studer, “<a href="https://arxiv.org/abs/2511.09227">Positioning via Digital-Twin-Aided Channel Charting with Large-Scale CSI Features</a>,” arXiv preprint: 2511.09227, Nov. 2025
+
+
 ## Tutorials
 
 * P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Online Tutorial, Jul. 2022
@@ -208,4 +211,4 @@ This website is maintained by the <a href="https://iip.ethz.ch/">Integrated Info
 
 In case you would like to suggest a publication, patent, dataset, or software link, then please contact  <a href="mailto:studer@ethz.ch?subject=New Channel Charting Resource">Christoph Studer</a> and provide all the necessary details required to create an item in the above lists. Please note that we prefer open-access resources and discourage the use of papers behind a paywall. 
 
-Website last updated by Christoph Studer on November 3, 2025.
+Website last updated by Christoph Studer on November 13, 2025.
