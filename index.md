@@ -159,8 +159,9 @@ The above figure shows channel charting results obtained from real-world measure
 
 * Y. Zhang, G. Pan, M. F. Keskin, O. Kaltiokallio, M. Valkama, and H. Wymeersch, “<a href="https://arxiv.org/abs/2510.27394">UNILocPro: Unified Localization Integrating Model-Based Geometry and Channel Charting</a>,” arXiv preprint: 2510.27394, Oct. 2025
 
-* J. M. Mateos-Ramos, F. Zumegen, H. Wymeersch, C. Häger, and C. Studer, “<a href="https://arxiv.org/abs/2511.09227">Positioning via Digital-Twin-Aided Channel Charting with Large-Scale CSI Features</a>,” arXiv preprint: 2511.09227, Nov. 2025
+* R. Wiesmayr, F. Zumegen, S. Taner, C. Dick, and C. Studer, "<a href="https://arxiv.org/abs/2512.10809">CSI-Based User Positioning, Channel Charting, and Device Classification with an NVIDIA 5G Testbed</a>," in *Asilomar Conf. Signals, Syst., Comput.*, arXiv preprint:2512.10809, Oct. 2025
 
+* J. M. Mateos-Ramos, F. Zumegen, H. Wymeersch, C. Häger, and C. Studer, “<a href="https://arxiv.org/abs/2511.09227">Positioning via Digital-Twin-Aided Channel Charting with Large-Scale CSI Features</a>,” arXiv preprint: 2511.09227, Nov. 2025
 
 ## Tutorials
 
@@ -190,6 +191,8 @@ The above figure shows channel charting results obtained from real-world measure
 
 Below is a compilation of links to some real-world measurement datasets that contain CSI data.
 These datasets have previously been used to showcase Channel Charting:
+
+* <a href="https://caez.ethz.ch/">CSI Acquisition at ETH Zurich (CAEZ):</a> CSI from a 5G and a Wi-Fi testbed measured at ETH Zurich in various indoor and outdoor scenarios, includes "ground truth" positions and wideband OFDM-domain CSI from multiple distributed 5G radio units and Wi-Fi access points.
 
 * <a href="https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/pos/fingerprinting-dataset-for-positioning.html">Fraunhofer UWB and 5G datasets</a>: Measured in an indoor environment, includes channel impulse responses and time of flight / time difference of arrival data, includes "ground truth" positions.
 
