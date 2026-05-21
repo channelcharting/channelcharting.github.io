@@ -143,7 +143,7 @@ The above figure shows channel charting results obtained from real-world measure
 
 * P. Kazemi, "<a href="https://aaltodoc.aalto.fi/items/c6aaacbc-429f-4224-aa6f-4736dcdf5ad1">Channel Charting-based Radio Resource Management</a>," doctoral thesis, Mar. 2025
 
-* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2410.11486">Channel Charting-Based Channel Prediction on Real-World Distributed Massive MIMO CSI</a>," IEEE Wireless Communications and Networking Conference (WCNC), Mar. 2025
+* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2410.11486">Channel Charting-Based Channel Prediction on Real-World Distributed Massive MIMO CSI</a>," IEEE Wireless Communications and Networking Conference (WCNC), Mar. 2025, <a href="https://github.com/phillipstephan/ChannelCharting-ChannelPrediction">GitHub repository</a>
 
 * F. Euchner, D. Kellner, P. Stephan, S. ten Brink, "<a href="https://arxiv.org/abs/2504.09924">Passive Channel Charting: Locating Passive Targets using Wi-Fi Channel State Information</a>," arXiv preprint, Apr. 2025, <a href="https://github.com/Jeija/ESPARGOS-Passive-ChannelCharting">GitHub repository</a>
 
@@ -157,11 +157,31 @@ The above figure shows channel charting results obtained from real-world measure
 
 * Ge Chen, P. Chen, and L. Cheng, "<a href="https://arxiv.org/abs/2509.13030">Deep Tensor Learning for Reliable Channel Charting from Incomplete and Noisy Measurements</a>," arXiv preprint: 2509.13030, Sep. 2025
 
+* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2508.02553">CSI Obfuscation: Single-Antenna Transmitters Can Not Hide from Adversarial Multi-Antenna Radio Localization Systems</a>," 28th International Workshop on Smart Antennas (WSA), Sep. 2025, <a href="https://github.com/phillipstephan/Adversarial-Radio-Localization-under-CSI-Obfuscation">GitHub repository</a>
+
 * Y. Zhang, G. Pan, M. F. Keskin, O. Kaltiokallio, M. Valkama, and H. Wymeersch, “<a href="https://arxiv.org/abs/2510.27394">UNILocPro: Unified Localization Integrating Model-Based Geometry and Channel Charting</a>,” arXiv preprint: 2510.27394, Oct. 2025
 
 * R. Wiesmayr, F. Zumegen, S. Taner, C. Dick, and C. Studer, "<a href="https://arxiv.org/abs/2512.10809">CSI-Based User Positioning, Channel Charting, and Device Classification with an NVIDIA 5G Testbed</a>," in *Asilomar Conf. Signals, Syst., Comput.*, arXiv preprint:2512.10809, Oct. 2025
 
+* H. Abbass, L. Le Magoarou, J. Farah, and M. Crussière, "<a href="https://cnrs.hal.science/hal-05393026">Channel Charting for Efficient Precoding in Cell-Free Massive MIMO</a>," 59th Asilomar Conference on Signals, Systems, and Computers, Oct. 2025
+
+* M. E. M. Makhlouf, Y. Vindas, A. Kumar, M. Guillaud, and M. Di Renzo, "<a href="https://cnrs.hal.science/hal-05393874v1">Charting Channels in the Presence of RIS</a>," 59th Asilomar Conference on Signals, Systems, and Computers, Oct. 2025
+
+* P. Stephan, F. Euchner, S. ten Brink, "<a href="https://arxiv.org/abs/2512.15399">Three-Dimensional Radio Localization: A Channel Charting-Based Approach</a>," 59th Asilomar Conference on Signals, Systems, and Computers, Oct. 2025, <a href="https://github.com/phillipstephan/3D-ChannelCharting">GitHub repository</a>
+
+* J. Pirkl, J. Ott, M. Stahlke, G. Yammine, T. Feigl, and C. Mutschler, "<a href="https://arxiv.org/abs/2602.04704">Resilient Channel Charting Under Varying Radio Link Availability</a>," 59th Asilomar Conference on Signals, Systems, and Computers, Oct. 2025
+
 * J. M. Mateos-Ramos, F. Zumegen, H. Wymeersch, C. Häger, and C. Studer, “<a href="https://arxiv.org/abs/2511.09227">Positioning via Digital-Twin-Aided Channel Charting with Large-Scale CSI Features</a>,” arXiv preprint: 2511.09227, Nov. 2025
+
+2026
+
+* H. Huang, G. Pan, K. Huang, S. Zhang, Y. Zhang, M. F. Keskin, Z. Xing, and H. Wymeersch, "<a href="https://arxiv.org/abs/2603.06158">A Retrieval-Assisted Framework for Wireless Localization</a>," arXiv preprint: 2603.06158, Mar. 2026
+
+* M. Ahadi, O. Esrafilian, F. Kaltenberger, and A. Malik, "<a href="https://arxiv.org/abs/2510.08001">TDoA-based self-supervised channel charting with NLoS mitigation</a>," IEEE Transactions on Machine Learning in Communications and Networking, Apr. 2026
+
+* A. Kumar, Y. Vindas, and M. Guillaud, "<a href="https://hal.science/hal-05395262v1">Doppler-Supervised Channel Charting</a>," IEEE International Conference on Communications (ICC), May 2026
+
+* N. Saba, P. Garau Burguera, J. Liao, H. Al-Tous, O. Tirkkonen, and R. Jäntti, "<a href="https://research.aalto.fi/en/publications/backscatter-devices-assisted-channel-charting/">Backscatter Devices Assisted Channel Charting</a>," IEEE Vehicular Technology Conference (VTC), Jun. 2026
 
 ## Tutorials
 
@@ -182,6 +202,14 @@ The above figure shows channel charting results obtained from real-world measure
 * F. Euchner, "<a href="https://github.com/Jeija/ToA-AoA-Augmented-ChannelCharting/">Time of Arrival / Angle of Arrival-augmented Channel Charting</a>," Jupyter Notebooks
 
 * F. Euchner, S. ten Brink, "<a href="https://github.com/Jeija/ESPARGOS-WiFi-ChannelCharting/">Channel Charting with WiFi CSI Datasets generated by ESPARGOS</a>," Jupyter Notebooks
+
+* P. Stephan, "<a href="https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/channelcharting/">Timestamp / Triplet-Based Channel Charting</a>," Jupyter Notebook, Tutorial with code
+
+* P. Stephan, "<a href="https://github.com/phillipstephan/ChannelCharting-ChannelPrediction">Channel Charting-Based Channel Prediction</a>," Jupyter Notebooks
+
+* P. Stephan, "<a href="https://github.com/phillipstephan/Adversarial-Radio-Localization-under-CSI-Obfuscation">Adversarial Radio Localization / Channel Charting</a>," Jupyter Notebooks
+
+* P. Stephan, "<a href="https://github.com/phillipstephan/3D-ChannelCharting">3D Channel Charting</a>," Jupyter Notebooks
 
 * S. Taner, "<a href="https://github.com/IIP-Group/ChannelCharting_StreamingCSI">Channel Charting for Streaming CSI</a>," GitHub repository with PyTorch code for the results in the Asilomar 2023 paper on "<a href="https://arxiv.org/abs/2312.04514">Channel Charting for Streaming CSI Data</a>,"by S. Taner, M. Guillaud, O. Tirkkonen, and C. Studer
 
